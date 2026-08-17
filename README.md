@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>☁️ Build a Monitoring Stack with Ansible</h1>
+  <h1>☁️ Automated Infrastructure Monitoring with Ansible</h1>
   <p><strong>A fully automated deployment of Prometheus, Grafana, and Node Exporter on AWS EC2 using Ansible.</strong></p>
 </div>
 
